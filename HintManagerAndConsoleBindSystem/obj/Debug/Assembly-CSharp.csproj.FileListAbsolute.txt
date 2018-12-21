@@ -1,0 +1,1 @@
+E:\_Projects\HintManagerAndConsoleBindSystem\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
